@@ -1,3 +1,3 @@
-This directory contains a team project on Printf
+This directory contains a Team project on Printf
 The contributors are
 Uzziah Osia and Samuel Amiaka
